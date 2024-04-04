@@ -36,8 +36,8 @@ public class Main {
     //We can add methods like join to control the main flow in task process 
     //One thing: each time it returns different results    
     System.out.println(list1.size());
-    System.out.println(list1.size());
-    System.out.println(list1.size());
+    System.out.println(list2.size());
+    System.out.println(list3.size());
 
 
     }
