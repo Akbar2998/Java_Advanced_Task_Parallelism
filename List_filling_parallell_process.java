@@ -34,6 +34,7 @@ public class Main {
     thread2.start();
     thread3.start();
     //We can add methods like join to control the main flow in task process 
+    //One thing: each time it returns different results    
     System.out.println(list1.size());
     System.out.println(list1.size());
     System.out.println(list1.size());
